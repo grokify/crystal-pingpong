@@ -1,5 +1,8 @@
 # Crystal PingPong Example Shard
 
+[![Build Status][build-status-svg]][build-status-url]
+[![License][license-svg]][license-url]
+
 This is a simple, example shard.
 
 It was created with the name `pingpong` and then moved into the repo `github.com/grokify/crystal-pingpong`.
@@ -43,3 +46,8 @@ puts pp.ping // "pong"
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
+
+ [build-status-svg]: https://github.com/grokify/crystal-pingpong/workflows/Crystal%20CI/badge.svg?branch=master
+ [build-status-url]: https://github.com/grokify/crystal-pingpong/actions
+ [license-svg]: https://img.shields.io/badge/license-MIT-blue.svg
+ [license-url]: https://github.com/grokify/crystal-pingpong/blob/master/LICENSE
