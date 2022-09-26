@@ -2,6 +2,12 @@
 
 This is a simple, example shard.
 
+It was created with the name `pingpong` and then moved into the repo `github.com/grokify/crystal-pingpong`.
+
+```bash
+% crystal init lib pingpong
+```
+
 ## Installation
 
 1. Add the dependency to your `shard.yml`:
