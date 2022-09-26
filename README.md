@@ -27,8 +27,8 @@ puts pp.ping // "pong"
 
 1. [Crystal Docs: Writing Shards](https://crystal-lang.org/reference/1.5/guides/writing_shards.html)
 1. [Make your own Shard in Crystal language by Vitalii Elenhaupt](https://veelenga.github.io/make-your-own-shard-in-crystal-language/)
-1. [`crystal-memcached`](https://github.com/comandeo/crystal-memcached)
-1. [`twitter-crystal`](https://github.com/mamantoha/twitter-crystal)
+1. Referenced shard: [`crystal-memcached`](https://github.com/comandeo/crystal-memcached)
+1. Referenced shard: [`twitter-crystal`](https://github.com/mamantoha/twitter-crystal)
 
 ## Contributing
 
