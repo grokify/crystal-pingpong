@@ -47,7 +47,7 @@ puts pp.ping // "pong"
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
 
- [build-status-svg]: https://github.com/grokify/crystal-pingpong/workflows/Crystal%20CI/badge.svg?branch=master
+ [build-status-svg]: https://github.com/grokify/crystal-pingpong/workflows/Crystal%20CI/badge.svg?branch=main
  [build-status-url]: https://github.com/grokify/crystal-pingpong/actions
  [license-svg]: https://img.shields.io/badge/license-MIT-blue.svg
  [license-url]: https://github.com/grokify/crystal-pingpong/blob/master/LICENSE
