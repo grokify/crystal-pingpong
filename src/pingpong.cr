@@ -8,4 +8,3 @@ module Pingpong
     end
   end
 end
-
