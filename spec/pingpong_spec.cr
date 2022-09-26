@@ -1,9 +1,9 @@
 require "./spec_helper"
 
 describe Pingpong do
-  # TODO: Write tests
-
-  it "works" do
-    false.should eq(true)
+  it "ping returns pong" do
+    ping = Pingpong::Ping.new
+    resp = ping.ping
+    resp.should eq("pong")
   end
 end

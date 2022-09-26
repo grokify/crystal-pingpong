@@ -2,7 +2,10 @@
 module Pingpong
   VERSION = "0.1.0"
 
-  def ping
-    "pong"
+  class Ping
+    def ping
+      "pong"
+    end
   end
 end
+
