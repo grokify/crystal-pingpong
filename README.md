@@ -18,13 +18,10 @@ This is a simple, example shard.
 
 ```crystal
 require "pingpong"
+
+pp = Pingpong::Ping.new
+resp = pp.ping // "pong"
 ```
-
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
 
 ## References
 
