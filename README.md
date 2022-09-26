@@ -20,7 +20,7 @@ This is a simple, example shard.
 require "pingpong"
 
 pp = Pingpong::Ping.new
-resp = pp.ping // "pong"
+puts pp.ping // "pong"
 ```
 
 ## References
